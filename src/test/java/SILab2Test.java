@@ -46,4 +46,4 @@ class SILab2Test {
         assertFalse(SILab2.checkCart(create(new Item("x","143252",200,0.1f)),10));
 
     }
-}
+}   
